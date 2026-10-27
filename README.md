@@ -23,3 +23,4 @@ Visa sponsorship required
 
 ## Contact
 - Email: jadiknightrevan@gmail.com
+- Resume: [Resume](./Mikhail_Muravev_Resume.pdf)
