@@ -1,16 +1,14 @@
-# Mikhail Muravev
-
 SOC / DFIR Engineer | Detection Engineering | Network Security | Malware Analysis
 
 I'm a security engineer with 1.5+ years of hands-on experience in security operations, incident response, digital forensics, and detection engineering. I currently work as a Senior Security Engineer at a cybersecurity research organization, where I progressed from SOC L1 to L2 to Senior within 18 months.
 
 ## What I do
 - Triage and investigate security alerts across enterprise infrastructure
-- Lead forensic investigations on Windows and Unix endpoints (KAPE, Hayabusa, Procmon, Autoruns)
+- Lead forensic investigations on Windows and Unix endpoints
 - Build detection rules and hunt for anomalies in network traffic and logs
-- Operate enterprise NetFlow analytics platform (Akvorado, ClickHouse, Grafana)
-- Deploy and maintain distributed honeypot sensors (T-Pot) across network segments
-- Deploy and productionize malware sandbox infrastructure (CAPEv2) for dynamic analysis and IOC extraction
+- Operate enterprise NetFlow analytics platform
+- Deploy and maintain distributed honeypot sensors across network segments
+- Deploy and productionize malware sandbox infrastructure for dynamic analysis and IOC extraction
 - Automate security workflows with Python and Bash
 
 ## Skills
